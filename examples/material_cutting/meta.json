@@ -1,0 +1,12 @@
+{
+    "mode": "normal",
+	"attribute_dim_size": 1,
+	"container_num": 1,
+	"item_num": 10,
+    "parameters":
+    {
+        "thread_num": 12,
+        "pruning_rate": 0.5,
+        "temperature_increasing_rate": 0
+    }
+}
